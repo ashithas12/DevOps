@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHkHBtNU/l8=",
+  "success": true,
+  "projectFilePath": "/Users/921764/Downloads/VS-Code/webapi/webapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/921764/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/921764/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
